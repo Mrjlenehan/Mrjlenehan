@@ -13,7 +13,7 @@ Hey there, I am Joshua Lenehan<br>I am currently studying Mathematics and Comput
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrjlenehan&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mrjlenehan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mrjlenehan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Mrjlenehan&limit=5&theme=aura&combine_all_yearly_contributions=true)
@@ -21,4 +21,3 @@ Hey there, I am Joshua Lenehan<br>I am currently studying Mathematics and Comput
 ---
 [![](https://visitcount.itsvg.in/api?id=Mrjlenehan&icon=3&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
